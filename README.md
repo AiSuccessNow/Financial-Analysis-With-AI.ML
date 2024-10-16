@@ -25,3 +25,10 @@ fig 5: Stocks Daily Returns Ranges
 fig 6: Cummulative Stock Daily Returns
 
 
+![image](https://github.com/user-attachments/assets/2d20fd75-34cb-4f55-843c-5e21aa643949)
+
+Fig 7 Returns Correlation Visualization
+
+
+![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
+fig8 Heatmap Visualization of returns
