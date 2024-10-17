@@ -1,14 +1,15 @@
-# Financial-Analysis-With-AI.ML
+# Financial-Analysis-and-Predictions-With-AI.ML
 
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
+
 fig 1; Overview of Stocks Prices Comparism
 
-
 ![image](https://github.com/user-attachments/assets/e3a72b15-6143-4f9a-a13d-676c4413381e)
+
 Fig 2: Visualization of Normalized Stock Prices
 
-
 ![image](https://github.com/user-attachments/assets/78dbf2c8-58e2-4c97-84c3-48cff83754dd)
+
 Fig 3: Stocks Volume Visualization
 
 ![image](https://github.com/user-attachments/assets/739f8577-8620-44b8-a29c-d6a2a2f9a4b9)
@@ -19,16 +20,59 @@ fig 4: Normalized Stock Volume Visulaization
 
 fig 5: Stocks Daily Returns Ranges 
 
-
 ![image](https://github.com/user-attachments/assets/8cc961cf-a06e-48c5-bf59-9a7c17963618)
 
 fig 6: Cummulative Stock Daily Returns
 
-
 ![image](https://github.com/user-attachments/assets/2d20fd75-34cb-4f55-843c-5e21aa643949)
 
-Fig 7 Returns Correlation Visualization
-
+Fig 7: Returns Correlation Visualization
 
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
-fig8 Heatmap Visualization of returns
+
+fig 8: Heatmap Visualization of returns
+
+![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
+
+fig 9: Moving Avearge Cross Over Visualization
+
+![image](https://github.com/user-attachments/assets/f8001bd4-031e-46ee-bc3a-f94778e1f233)
+
+fig 10: Closer look at Moving Avearge CrossOver Based on Last 500 Periods
+
+![image](https://github.com/user-attachments/assets/6dc4fb9c-d58a-4924-9340-b56559c0e6f2)
+
+Fig 11: Nvidia(NVDA) Cummulative Monthly Returns Visualization 
+
+![image](https://github.com/user-attachments/assets/b49b8a5c-f1c2-421a-b5ce-5ac29e3550f9)
+
+**Financial Market Price Predictions With Prophet Model:**
+
+Fig 12: Visualization of Price Predictions of NVDA Based on PROPHET Model
+
+![image](https://github.com/user-attachments/assets/0ec53bb5-4ac5-4809-be51-30849227151f)
+
+Fig 13: PRice Forecast for NVDA From Prophet Model  
+
+![image](https://github.com/user-attachments/assets/36fd11d1-653c-48a0-9b01-a647f2e3c3d4)
+
+Fig 14: Forecast Components plots With Prohpet
+
+**Financial Market Price Predictions With LSTM Neural Networks:**
+
+![image](https://github.com/user-attachments/assets/61e3a609-74b0-4f3f-ac0c-ff22348fd6db)
+
+fig 15: LSTM Model Summary for NVDA Stock Price Predictions
+
+![image](https://github.com/user-attachments/assets/c1d22d35-d7a3-4691-81ce-3f6243cf4891)
+
+Fig 16: Model History Display Table
+
+![image](https://github.com/user-attachments/assets/e0f97eeb-c208-4a4a-8618-9585d6847827)
+
+Fig 17: Plot of Original Stock Prices vs LSTM Neural Network Predicted Prices
+
+![image](https://github.com/user-attachments/assets/8907dec2-7e06-4a6a-86a4-c20bf60adb5c)
+
+Fig 18: Table of Normalized Predictions vs Closing prices vs the differences expressed in Percentages
+
