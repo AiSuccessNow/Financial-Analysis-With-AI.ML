@@ -1,6 +1,6 @@
 # Financial-Analysis-and-Predictions-With-AI.ML
 
-**Project Overview:**
+### **Project Overview:**
 
 The goal of the project is to demonstrate the predictive powers of Ai and Machine Learning and its use case in financial market analysis and price predictions. Daily adjusted closing prices and volume of stocks in the portfolio were used for the analysis, and to train the models.
 
@@ -13,7 +13,7 @@ Also, the complex and dynamic nature of price actions of financial products make
 The project was divided into three parts, starting with the known and familiar basic technical analysis and charting, through a gradual progression to the Prophet Model and finally to the deep world of Ai and Machine Learning.
 
 
-**Project Description:**
+###**Project Description:**
 
 **Part one** was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks.
 
