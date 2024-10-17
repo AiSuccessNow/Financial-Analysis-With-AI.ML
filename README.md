@@ -44,7 +44,6 @@ fig 4: Normalized Stock Volume Visulaization
 fig 5: Stocks Daily Returns Ranges 
 
 
-
 ![image](https://github.com/user-attachments/assets/2d20fd75-34cb-4f55-843c-5e21aa643949)
 
 Fig 7: Returns Correlation Visualization
