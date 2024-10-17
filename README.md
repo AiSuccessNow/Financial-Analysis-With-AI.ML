@@ -1,6 +1,6 @@
 # Financial-Analysis-and-Predictions-With-AI.ML
 
-### **Project Overview:**
+## **Project Overview:**
 
 The goal of the project is to demonstrate the predictive powers of Ai and Machine Learning and its use case in financial market analysis and price predictions. Daily adjusted closing prices and volume of stocks in the portfolio were used for the analysis, and to train the models.
 
@@ -13,15 +13,19 @@ Also, the complex and dynamic nature of price actions of financial products make
 The project was divided into three parts, starting with the known and familiar basic technical analysis and charting, through a gradual progression to the Prophet Model and finally to the deep world of Ai and Machine Learning.
 
 
-### **Project Description:**
+## **Project Description:**
 
-**Part one** was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated and analyzed and visualized the stock prices, stock volumes, returns and risks. See the following figures: 
+**Part one** was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated and analyzed and visualized the stock prices, stock volumes, returns and risks. 
 
-fig 1; Overview of Stocks Prices Comparism 
-fig 2: Visualization of Normalized Stock Prices
-fig 3: Stocks Volume Visualizatio
-fig 4: Normalized Stock Volume Visulaization
-fig 5: Stocks Daily Returns Ranges 
+**See the following figures:** 
+
+* fig 1; Overview of Stocks Prices Comparism 
+* fig 2: Visualization of Normalized Stock Prices
+* fig 3: Stocks Volume Visualization
+* fig 4: Normalized Stock Volume Visualization
+* fig 5: Stocks Daily Returns Ranges
+* fig 6: Heatmap Visualization of returns 
+##
 
 **Part two** was focused on the use of the Prophet Model to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313)
@@ -44,7 +48,7 @@ Fig 2: Visualization of Normalized Stock Prices
 ![image](https://github.com/user-attachments/assets/78dbf2c8-58e2-4c97-84c3-48cff83754dd)
 
 
-### **Stock Volume Visulaization:**
+### **Stock Volume Visualization:**
 
 Fig 3: Stocks Volume Visualization
 
@@ -52,25 +56,21 @@ Fig 3: Stocks Volume Visualization
 
 fig 4: Normalized Stock Volume Visulaization
 
-### ** Portfolio Daily Returns Visualization:**
+### **Portfolio Daily Returns Visualization:**
 
 ![image](https://github.com/user-attachments/assets/97c8e6f7-d8db-4d5f-92cf-b56040f06d90)
 
 fig 5: Stocks Daily Returns Ranges 
 
-
-![image](https://github.com/user-attachments/assets/2d20fd75-34cb-4f55-843c-5e21aa643949)
-
-Fig 7: Returns Correlation Visualization
-
-
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
 
-fig 8: Heatmap Visualization of returns
+fig 6: Heatmap Visualization of returns
 
 ![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
 
-fig 9: Moving Avearge Cross Over Visualization
+### ** Moving Averages Visualization:**
+
+fig 9: Moving Average Crossover Visualization
 
 ![image](https://github.com/user-attachments/assets/f8001bd4-031e-46ee-bc3a-f94778e1f233)
 
