@@ -13,6 +13,14 @@ Also, the complex and dynamic nature of price actions of financial products make
 The project was divided into three parts, starting with the known and familiar basic technical analysis and charting, through a gradual progression to the Prophet Model and finally to the deep world of Ai and Machine Learning.
 
 
+**Project Description:**
+
+Part one was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks.
+
+Part two was focused on the use of the Prophet Model to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
+(Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313)
+
+Part three was devoted to studying the Long Short Term Memory (LSTM) Neural network, deep learning models complete with Keras and Tensorflow to predict the future prices and direction of the specific stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier time steps in the sequence into formulating its predictions.
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
 
 fig 1; Overview of Stocks Prices Comparism
