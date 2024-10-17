@@ -1,5 +1,19 @@
 # Financial-Analysis-and-Predictions-With-AI.ML
 
+Financial_Market_Price_Predictions_With_Ai_Machine_Learning!
+Project Overview:
+
+The goal of the project is to demonstrate the predictive powers of Ai and Machine Learning and its use case in financial market analysis and price predictions. Daily adjusted closing prices and volume of stocks in the portfolio were used for the analysis, and to train the models.
+
+The datasets were obtained through yahoo finance (yfinance), and preprocessed and cleaned before been saved as a .csv which was later imported for the modeling.
+
+The stock market was selected for this project because of my personal interest and experience in trading the market with technical analysis. Applying Ai and Machine Learning to stock trading is futuristic and seems like the next BIG thing to stock trading and investment, and I want to be a part of this revolution. 
+
+Also, the complex and dynamic nature of price actions of financial products make them a perfect fit for Ai and Machine Learning.
+
+The project was divided into three parts, starting with the known and familiar basic technical analysis and charting, through a gradual progression to the Prophet Model and finally to the deep world of Ai and Machine Learning.
+
+
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
 
 fig 1; Overview of Stocks Prices Comparism
