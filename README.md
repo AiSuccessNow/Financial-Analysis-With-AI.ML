@@ -13,7 +13,7 @@ Also, the complex and dynamic nature of price actions of financial products make
 The project was divided into three parts, starting with the known and familiar basic technical analysis and charting, through a gradual progression to the Prophet Model and finally to the deep world of Ai and Machine Learning.
 
 
-###**Project Description:**
+### **Project Description:**
 
 **Part one** was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks.
 
