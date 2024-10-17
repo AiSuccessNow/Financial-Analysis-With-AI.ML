@@ -21,6 +21,8 @@ The project was divided into three parts, starting with the known and familiar b
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313)
 
 **Part three** was devoted to studying the Long Short Term Memory (LSTM) Neural network, deep learning models complete with Keras and Tensorflow to predict the future prices and direction of the specific stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier time steps in the sequence into formulating its predictions.
+
+
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
 
 fig 1; Overview of Stocks Prices Comparism
@@ -45,9 +47,11 @@ fig 5: Stocks Daily Returns Ranges
 
 fig 6: Cummulative Stock Daily Returns
 
+"""
 ![image](https://github.com/user-attachments/assets/2d20fd75-34cb-4f55-843c-5e21aa643949)
 
 Fig 7: Returns Correlation Visualization
+"""
 
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
 
