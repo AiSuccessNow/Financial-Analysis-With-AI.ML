@@ -17,16 +17,15 @@ The project was divided into three parts, starting with the known and familiar b
 
 **Part One:** The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. Part one is designed to lay the foundation for a comprehensive overview of the market and provide a insights into  random behavior of unstructred finanacial market. The figures below were chosen to highlight how investros and traders have trying to tame the financial market monster, with the hope of earning decent returns on their efforts and capital invested. 
 
-**See the following figures:** Please Note that figure descritions are displayed _**below the images**_ 
+**See the following figures:** Please Note that figure descriptions are displayed _**below the images**_ 
 * fig 1; Overview of Stocks Prices Comparism 
 * fig 2: Visualization of Normalized Stock Prices
 * fig 3: Stocks Volume Visualization
 * fig 4: Normalized Stock Volume Visualization
 * fig 5: Stocks Daily Returns Ranges
 * fig 6: Heatmap Visualization of returns
-* fig 7: Moving Average Crossover
-* fig 8: A closer look at Moving Average CrossOver Based on Last 500 Periods
-* Fig 9: Plot of Nvidia (NVDA) Cummulative Monthly Returns
+* fig 7: Market Trend With Moving Average Crossover
+* Fig 8: Visualization of Cummulative Daily Returns
 ##
 
 **Part Two:** The second part of the project was focused on the use of the **Prophet Model** to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
