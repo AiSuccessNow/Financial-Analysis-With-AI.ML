@@ -15,7 +15,7 @@ The project was divided into three parts, starting with the known and familiar b
 
 ## **Project Description:**
 
-**Part One:** The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. 
+**Part One:** The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. Part one is designed to lay the foundation for a comprehensive overview of the market and provide a insights into  random behavior of unstructred finanacial market. The figures below were chosen to highlight how investros and traders have trying to tame the financial market monster, with the hope of earning decent returns on their efforts and capital invested. 
 
 **See the following figures:** Please Note that figure descritions are displayed _**below the images**_ 
 * fig 1; Overview of Stocks Prices Comparism 
@@ -23,17 +23,18 @@ The project was divided into three parts, starting with the known and familiar b
 * fig 3: Stocks Volume Visualization
 * fig 4: Normalized Stock Volume Visualization
 * fig 5: Stocks Daily Returns Ranges
-* fig 6: Heatmap Visualization of returns 
+* fig 6: Heatmap Visualization of returns
+* fig 7: Moving Average Crossover
+* fig 8: A closer look at Moving Average CrossOver Based on Last 500 Periods
+* Fig 9: Plot of Nvidia (NVDA) Cummulative Monthly Returns
 ##
 
-**Part Two:** The second part of the project was focused on the use of the Prophet Model to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
+**Part Two:** The second part of the project was focused on the use of the **Prophet Model** to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313)
-
-
-
 ##
-**Part Three** was devoted to studying the Long Short Term Memory (LSTM) Neural network, deep learning models complete with Keras and Tensorflow to predict the future prices and direction of the specific stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier time steps in the sequence into formulating its predictions.
 
+
+**Part Three** was devoted to studying the Long Short Term Memory (LSTM) Neural network, deep learning models complete with Keras and Tensorflow to predict the future prices and direction of the specific stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier time steps in the sequence into formulating its predictions.
 
 ### **Stock Prices Visualization:**
 
@@ -61,7 +62,7 @@ fig 4: Normalized Stock Volume Visualization:
 ![image](https://github.com/user-attachments/assets/97c8e6f7-d8db-4d5f-92cf-b56040f06d90)
 
 fig 5: Stocks Daily Returns Ranges:
-* **Observations:** Highly volatile stocks have a much wider price ranges than less volatile stocks. eg NVDA has a price range from -20 to +20 plus, giving it a possible price range of above $40 low to highest. majority of the stocks have about $-5 to $5 daily price fluctuations from high to low.
+* **Observations:** Highly volatile stocks have a much wider price ranges than less volatile stocks. eg NVDA has a price range from -20 to +20 plus, giving it a possible price range of above $40 low to highest. majority of the stocks have about $-5 to $5 daily price fluctuations from high to low. This probably explains why its so very difficult for _**Day Traders**_ to make consistent profits in the long run.
 
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
 fig 6: Heatmap Plot of Returns
@@ -70,18 +71,19 @@ fig 6: Heatmap Plot of Returns
 
 ### **Visualization of Moving Averages of Stock Closing Prices and Returns:**
 ![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
-fig 9: Moving Average Crossover: 
+fig 7: Moving Average Crossover: 
 * **Observation:** This graph shows the _**Bullish Market Trend**_ whereby Close > SMA50 > SMA200 as shown in the plot.
 
 ![image](https://github.com/user-attachments/assets/f8001bd4-031e-46ee-bc3a-f94778e1f233)
-fig 10: Closer look at Moving Average CrossOver Based on Last 500 Periods
+fig 8: A closer look at Moving Average CrossOver Based on Last 500 Periods
 
+![image](https://github.com/user-attachments/assets/e9fda4a0-a50d-4724-ad15-ab7ab82a1619)
+Fig 9: Plot of Cummulative Daily Returns 
 ##
-**Financial Market Price Predictions With Prophet Model:**
-![image](https://github.com/user-attachments/assets/6dc4fb9c-d58a-4924-9340-b56559c0e6f2)
-Fig 11: Plot of Nvidia (NVDA) Cummulative Monthly Returns 
 
+# **AI AND MACHINE LEARNING IN FINANCIAL MARKET** 
 
+### **Financial Market Price Predictions With Prophet Model:**
 ![image](https://github.com/user-attachments/assets/b49b8a5c-f1c2-421a-b5ce-5ac29e3550f9)
 Fig 12: Visualization of Price Predictions of NVDA Based on PROPHET Model
 
