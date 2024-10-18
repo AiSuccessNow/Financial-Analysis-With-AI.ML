@@ -33,14 +33,23 @@ The first part of this project was focused on the basics of technical analysis f
   
 ##
 
-### **Part B: Ai Machine Learning** 
+### **Part B: Ai and Machine Learning** 
 **Section 1: Prophet Model** The first section of the Ai Amchine learning was focused on the use of the Prophet Model to predict future prices and market trends.
-The choice of Prophet Model was due to its ability to analyze and make predictions from datasets that exhibit seasonality trends and patterns; and the simplicity and interpretability (easy to understand) of the model output and predictions. Prophet was developed by Facebook.
+The choice of Prophet Model was due to its ability to analyze and make predictions from datasets that exhibit seasonality trends and patterns; and the simplicity and interpretability (easy to understand) of the model output and predictions. Prophet was developed by Facebook and the predictions are based on single stock at a time.
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313)
 ##
+* Fig 9: Visualization of Price Predictions of NVDA using PROPHET Model
+* Fig 10: Price Forecast for NVDA From Prophet Model  
+* Fig 11: Forecast Components plots With Prophet Model
 
+##
 **Section 2: LSTM Networks** This section is devoted to applying the Long Short Term Memory (LSTM) Neural network, a deep learning models complete with Keras and Tensorflow to predict the future prices and direction of stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier sequences into formulating its predictions.
 
+* fig 15: Model Summary for LSTM
+* Fig 16: Model Summary of History in DataFrame
+* Fig 17a: Original Stock Prices vs LSTM Predicted Prices (Normalized)
+* Fig 17b: Original Stock Prices vs LSTM Predicted Prices (Last 300 periods)
+* Fig 18: Predictions vs Closing prices vs Percent differences (Normalized)
 ##
 
 ### **Stock Prices Visualization:**
@@ -86,38 +95,34 @@ fig 8: Heatmap Plot of Returns
 * **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
 ##
 
-
-
-
-##
-
 # **AI AND MACHINE LEARNING IN FINANCIAL MARKET** 
 
 ### **Financial Market Price Predictions With Prophet Model:**
 ![image](https://github.com/user-attachments/assets/b49b8a5c-f1c2-421a-b5ce-5ac29e3550f9)
-Fig 12: Visualization of Price Predictions of NVDA Based on PROPHET Model
+Fig 9: Visualization of Price Predictions of NVDA Based on PROPHET Model
 
 ![image](https://github.com/user-attachments/assets/0ec53bb5-4ac5-4809-be51-30849227151f)
 
-Fig 13: PRice Forecast for NVDA From Prophet Model  
+Fig 10: Price Forecast for NVDA From Prophet Model  
 
 ![image](https://github.com/user-attachments/assets/36fd11d1-653c-48a0-9b01-a647f2e3c3d4)
 
-Fig 14: Forecast Components plots With Prohpet
+Fig 11: Forecast Components visulaization With Prophet Model
 
+###
 **Financial Market Price Predictions With LSTM Neural Networks:**
-
+###
 ![image](https://github.com/user-attachments/assets/61e3a609-74b0-4f3f-ac0c-ff22348fd6db)
-
 fig 15: LSTM Model Summary for NVDA Stock Price Predictions
 
 ![image](https://github.com/user-attachments/assets/c1d22d35-d7a3-4691-81ce-3f6243cf4891)
-
 Fig 16: Model History Display Table
 
 ![image](https://github.com/user-attachments/assets/e0f97eeb-c208-4a4a-8618-9585d6847827)
+Fig 17a: Original Stock Prices vs LSTM Predicted Prices
 
-Fig 17: Plot of Original Stock Prices vs LSTM Neural Network Predicted Prices
+![image](https://github.com/user-attachments/assets/e23c89a5-ac8b-4088-8032-800f057d1bd6)
+Fig 17b: Original Stock Prices vs LSTM Predicted Prices **Last 300 Periods**
 
 ![image](https://github.com/user-attachments/assets/8907dec2-7e06-4a6a-86a4-c20bf60adb5c)
 
