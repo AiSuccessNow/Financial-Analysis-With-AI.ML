@@ -22,6 +22,7 @@ The project was divided into two major parts:
 The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. Part one is designed to lay the foundation for a comprehensive overview of the market and provide a insights into  random behavior of unstructred finanacial market. The figures below were chosen to highlight how investros and traders have trying to tame the financial market monster, with the hope of earning decent returns on their efforts and capital invested. 
 
 **See the figures below:** Note that figure descriptions are displayed _**below the figures**_ 
+##
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
 fig 1: Overview of Stocks Prices and Comparism:
 * **Observations:** This chart reveals the incomprehensible, interwoven and noisy price actions of the financial market.
@@ -40,14 +41,12 @@ Fig 3: Stocks Volume Visualization:
 ![image](https://github.com/user-attachments/assets/739f8577-8620-44b8-a29c-d6a2a2f9a4b9)
 fig 4: Normalized Stock Volume Visualization: 
 * **Observations:** Normalizing the volume change the display of the dataset. The spike in volume (red graph) is probably due to the discovery of NVDA by the _**retail traders**_ and other slower investors like the banks etc.  
-##
 
 ### **Visualization of Market Trend With Moving Averages**
 ![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
 fig 5: Finding Market Trend with Moving Average Crossover: 
 * **Observation:** This graph shows the _**Bullish Market Trend**_ whereby Close > SMA50 > SMA200 as shown in the plot.
 
-##
 ### **Portfolio Daily Returns:**
 ![image](https://github.com/user-attachments/assets/97c8e6f7-d8db-4d5f-92cf-b56040f06d90)
 
