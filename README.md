@@ -22,57 +22,6 @@ The project was divided into two major parts:
 The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. Part one is designed to lay the foundation for a comprehensive overview of the market and provide a insights into  random behavior of unstructred finanacial market. The figures below were chosen to highlight how investros and traders have trying to tame the financial market monster, with the hope of earning decent returns on their efforts and capital invested. 
 
 **See the figures below:** Note that figure descriptions are displayed _**below the figures**_ 
-* fig 1; Overview of Stocks Prices and Comparism 
-* fig 2: Visualization of Normalized Stock Prices
-* fig 3: Stocks Volume Visualization
-* fig 4: Normalized Stock Volume Visualization
-* fig 5: Finding Market Trend with Moving Averages
-* fig 6: Stocks Daily Returns Ranges
-* fig 7: Visualizing ation of Cummulative Daily Returns
-* fig 8: Heatmap Visualization of returns
-###
-
-### **Part B: Ai and Machine Learning in Financial Market**
-###
-#### * **1: Modelling and Predicting Financial Market Prices with Prophet:**
-The first section of the Ai Amchine learning was focused on the use of the Prophet Model to predict future prices and market trends.
-The choice of Prophet Model was due to its ability to analyze and make predictions from datasets that exhibit seasonality trends and patterns; and the simplicity and interpretability (easy to understand) of the model output and predictions. Prophet was developed by Facebook and the predictions are based on single stock at a time.
-(Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313). See the figures below
-* Fig 9: Visualization of Price Predictions of NVDA using PROPHET Model
-* Fig 10: Price Forecast for NVDA From Prophet Model  
-* Fig 11: Forecast Components plots With Prophet Model
-###
-
-#### * **2: Predicting Stock Prices With LSTM Networks:**
-This section is devoted to applying the Long Short Term Memory (LSTM) Neural network, a deep learning models complete with Keras and Tensorflow to predict the future prices and direction of stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier sequences into formulating its predictions. See the figures below:
-* fig 15: Model Summary for LSTM
-* Fig 16: Model Summary of History in DataFrame
-* Fig 17a: Original Stock Prices vs LSTM Predicted Prices (Normalized)
-* Fig 17b: Original Stock Prices vs LSTM Predicted Prices (Last 300 periods)
-* Fig 18: Predictions vs Closing prices vs Percent differences (Normalized)
-###
-
-## **Areas For Research and Investigate:** 
-* **Realtime Data:** Sourcing higher quality realtime data to lifetest/forward test models
-* **Kaizen:** ongoing testing and optimization of models to improved performance and accuracy. eg. Parameter tuning etc.
-* **Partnership:** Probably seeking a partner or investor to fund further research and monetization of models 
-
-## **Future Product Developments and Possibilities:**
-* **Fundamental Analysis:**  Ai and Machine learning with deep learning to unlock and automate bankable insights from fundamental data. 
-* **Sentiment Analysis:** Financial Market Sentiments Analysis with Natural Language Process and Neural Networks, given high quality realtime data. 
-* **Automation:** Automated/Semi_Automated trading and investing with Ai and Machine Learning
-* **Monetization:**  Provide financial forecasting / Robo_advisory services through partnership with an incumbent
- 
-## **Conclusions:**
-
-
-
-## **References:**
-
-
-## **Appendix:** see the visulalizations below
-### **Stock Prices Visualization:**
-
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
 fig 1: Overview of Stocks Prices and Comparism:
 * **Observations:** This chart reveals the incomprehensible, interwoven and noisy price actions of the financial market.
@@ -112,11 +61,16 @@ Fig 7: Plotting The Cummulative Daily Returns
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
 fig 8: Heatmap Plot of Returns
 * **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
-##
+#
 
-# **AI AND Machine Learning in Financial Markets** 
+### **Part B: Ai and Machine Learning in Financial Market**
+###
+#### * **1: Modelling and Predicting Financial Market Prices with Prophet:**
+The first section of the Ai Amchine learning was focused on the use of the Prophet Model to predict future prices and market trends.
+The choice of Prophet Model was due to its ability to analyze and make predictions from datasets that exhibit seasonality trends and patterns; and the simplicity and interpretability (easy to understand) of the model output and predictions. Prophet was developed by Facebook and the predictions are based on single stock at a time.
+(Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313). See the figures below
 
-### **Financial Market Price Predictions With Prophet Model:**
+* ### **Financial Market Price Predictions With Prophet Model:**
 ![image](https://github.com/user-attachments/assets/b49b8a5c-f1c2-421a-b5ce-5ac29e3550f9)
 Fig 9: Visualization of Price Predictions of NVDA Based on PROPHET Model
 
@@ -127,9 +81,13 @@ Fig 10: Price Forecast for NVDA From Prophet Model
 ![image](https://github.com/user-attachments/assets/36fd11d1-653c-48a0-9b01-a647f2e3c3d4)
 
 Fig 11: Forecast Components visualization With Prophet Model
-
 ###
-**Financial Market Price Predictions With LSTM Neural Networks:**
+
+#### * **2: Predicting Stock Prices With LSTM Networks:**
+This section is devoted to applying the Long Short Term Memory (LSTM) Neural network, a deep learning models complete with Keras and Tensorflow to predict the future prices and direction of stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier sequences into formulating its predictions. See the figures below:
+
+
+* **Financial Market Price Predictions With LSTM Neural Networks:**
 ###
 ![image](https://github.com/user-attachments/assets/61e3a609-74b0-4f3f-ac0c-ff22348fd6db)
 fig 15: LSTM Model Summary for NVDA Stock Price Predictions
@@ -146,4 +104,35 @@ Fig 17b: Original Stock Prices vs LSTM Predicted Prices **Last 300 Periods**
 ![image](https://github.com/user-attachments/assets/8907dec2-7e06-4a6a-86a4-c20bf60adb5c)
 
 Fig 18: Table of Normalized Predictions vs Closing prices vs the differences expressed in Percentages
+###
+
+## **Areas For Research and Investigate:** 
+* **Realtime Data:** Sourcing higher quality realtime data to lifetest/forward test models
+* **Kaizen:** ongoing testing and optimization of models to improved performance and accuracy. eg. Parameter tuning etc.
+* **Partnership:** Probably seeking a partner or investor to fund further research and monetization of models 
+
+## **Future Product Developments and Possibilities:**
+* **Fundamental Analysis:**  Ai and Machine learning with deep learning to unlock and automate bankable insights from fundamental data. 
+* **Sentiment Analysis:** Financial Market Sentiments Analysis with Natural Language Process and Neural Networks, given high quality realtime data. 
+* **Automation:** Automated/Semi_Automated trading and investing with Ai and Machine Learning
+* **Monetization:**  Provide financial forecasting / Robo_advisory services through partnership with an incumbent
+ 
+## **Conclusions:**
+
+
+
+## **References:**
+
+
+## **Appendix:** see the visulalizations below
+### **Stock Prices Visualization:**
+
+
+
+# **PART B: AI and Machine Learning in Financial Markets** 
+
+
+
+###
+
 
