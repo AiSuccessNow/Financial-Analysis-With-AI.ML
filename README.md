@@ -62,9 +62,9 @@ fig 8: Heatmap Plot of Returns
 * **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
 #
 
-### **Part B: Ai and Machine Learning in Financial Market**
+### **Part B: Ai and Machine Learning and Financial Market Forecasting**
 ###
-#### * **1: Modelling and Predicting Financial Market Prices with Prophet:**
+### **1, Modelling and Predicting Financial Market Prices with Prophet:**
 The first section of the Ai Amchine learning was focused on the use of the Prophet Model to predict future prices and market trends.
 The choice of Prophet Model was due to its ability to analyze and make predictions from datasets that exhibit seasonality trends and patterns; and the simplicity and interpretability (easy to understand) of the model output and predictions. Prophet was developed by Facebook and the predictions are based on single stock at a time.
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313). See the figures below
@@ -82,56 +82,46 @@ Fig 10: Price Forecast for NVDA From Prophet Model
 Fig 11: Forecast Components visualization With Prophet Model
 ###
 
-#### * **2: Predicting Stock Prices With LSTM Networks:**
+### * **2: Predicting Stock Prices With LSTM Networks:**
 This section is devoted to applying the Long Short Term Memory (LSTM) Neural network, a deep learning models complete with Keras and Tensorflow to predict the future prices and direction of stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier sequences into formulating its predictions. See the figures below:
 
 
-* **Financial Market Price Predictions With LSTM Neural Networks:**
+### **Financial Market Price Predictions With LSTM Neural Networks:**
 ###
 ![image](https://github.com/user-attachments/assets/61e3a609-74b0-4f3f-ac0c-ff22348fd6db)
+
 fig 15: LSTM Model Summary for NVDA Stock Price Predictions
 
 ![image](https://github.com/user-attachments/assets/c1d22d35-d7a3-4691-81ce-3f6243cf4891)
+
 Fig 16: Model History Display Table
 
 ![image](https://github.com/user-attachments/assets/e0f97eeb-c208-4a4a-8618-9585d6847827)
+
 Fig 17a: Original Stock Prices vs LSTM Predicted Prices
 
-![image](https://github.com/user-attachments/assets/e23c89a5-ac8b-4088-8032-800f057d1bd6)
+![image](https://github.com/user-attachments/assets/fcf9b53f-a8bf-45df-a598-3e7adf50719f)
+
 Fig 17b: Original Stock Prices vs LSTM Predicted Prices **Last 300 Periods**
 
 ![image](https://github.com/user-attachments/assets/8907dec2-7e06-4a6a-86a4-c20bf60adb5c)
 
-Fig 18: Table of Normalized Predictions vs Closing prices vs the differences expressed in Percentages
-###
+Fig 18: Predictions vs Closing prices vs Their Percentage Differences (Normalized)
+##
 
-## **Areas For Research and Investigate:** 
-* **Realtime Data:** Sourcing higher quality realtime data to lifetest/forward test models
+## **Areas For Further Research and Investigate:** 
+* **Data:** Sourcing higher quality realtime data to lifetest/forward test models
 * **Kaizen:** ongoing testing and optimization of models to improved performance and accuracy. eg. Parameter tuning etc.
 * **Partnership:** Probably seeking a partner or investor to fund further research and monetization of models 
 
 ## **Future Product Developments and Possibilities:**
-* **Fundamental Analysis:**  Ai and Machine learning with deep learning to unlock and automate bankable insights from fundamental data. 
-* **Sentiment Analysis:** Financial Market Sentiments Analysis with Natural Language Process and Neural Networks, given high quality realtime data. 
 * **Automation:** Automated/Semi_Automated trading and investing with Ai and Machine Learning
 * **Monetization:**  Provide financial forecasting / Robo_advisory services through partnership with an incumbent
+* **Fundamental Analysis:**  Ai and Machine learning with deep learning to unlock and automate bankable insights from fundamental data. 
+* **Sentiment Analysis:** Financial Market Sentiments Analysis with Natural Language Process and Neural Networks, given high quality realtime data. 
  
 ## **Conclusions:**
 
 
 
 ## **References:**
-
-
-## **Appendix:** see the visulalizations below
-### **Stock Prices Visualization:**
-
-
-
-# **PART B: AI and Machine Learning in Financial Markets** 
-
-
-
-###
-
-
