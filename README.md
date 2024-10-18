@@ -15,7 +15,7 @@ The project was divided into three parts, starting with the known and familiar b
 
 ## **Project Description:**
 
-**Part one:** The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. 
+**Part One:** The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. 
 
 **See the following figures:** 
 * fig 1; Overview of Stocks Prices Comparism 
@@ -26,13 +26,13 @@ The project was divided into three parts, starting with the known and familiar b
 * fig 6: Heatmap Visualization of returns 
 ##
 
-**Part two:** The second part of the project was focused on the use of the Prophet Model to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
+**Part Two:** The second part of the project was focused on the use of the Prophet Model to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313)
 
 
 
 ##
-**Part three** was devoted to studying the Long Short Term Memory (LSTM) Neural network, deep learning models complete with Keras and Tensorflow to predict the future prices and direction of the specific stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier time steps in the sequence into formulating its predictions.
+**Part Three** was devoted to studying the Long Short Term Memory (LSTM) Neural network, deep learning models complete with Keras and Tensorflow to predict the future prices and direction of the specific stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier time steps in the sequence into formulating its predictions.
 
 
 ### **Stock Prices Visualization:**
@@ -55,12 +55,13 @@ Fig 3: Stocks Volume Visualization
 
 fig 4: Normalized Stock Volume Visualization: Normalizing the volume changes the distribution and display of the dataset. 
 
+##
 ### **Portfolio Daily Returns:**
 
 ![image](https://github.com/user-attachments/assets/97c8e6f7-d8db-4d5f-92cf-b56040f06d90)
 
-fig 5: Stocks Daily Returns Ranges
-* **Observation from Returns Visulaization:** Highly volatile stocks have a much wider price ranges than less volatile stocks eg NVDA.
+fig 5: Stocks Daily Returns Ranges:
+* **Observation from Returns Visualization:** Highly volatile stocks have a much wider price ranges than less volatile stocks eg NVDA.
 
 
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
@@ -68,6 +69,7 @@ fig 5: Stocks Daily Returns Ranges
 fig 6: Heatmap Plot of Returns
 * **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
 ##
+
 ![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
 
 ### ** Moving Averages Visualization of Stock Closing Prices and Returns:**
