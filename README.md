@@ -17,7 +17,7 @@ The project was divided into three parts, starting with the known and familiar b
 
 **Part One:** The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. 
 
-**See the following figures:** 
+**See the following figures:** Please Note that figure descritions are displayed _**below the images**_ 
 * fig 1; Overview of Stocks Prices Comparism 
 * fig 2: Visualization of Normalized Stock Prices
 * fig 3: Stocks Volume Visualization
@@ -43,17 +43,15 @@ fig 1; Overview of Stocks Prices and Comparism
 ![image](https://github.com/user-attachments/assets/e3a72b15-6143-4f9a-a13d-676c4413381e)
 
 Fig 2: Visualization of Normalized Stock Prices
-
+##
+### **Volume Visualization:**
 ![image](https://github.com/user-attachments/assets/78dbf2c8-58e2-4c97-84c3-48cff83754dd)
 
-
-### **Volume Visualization:**
-
-Fig 3: Stocks Volume Visualization
+Fig 3: Stocks Volume Visualization: 
+* **Oberservation:**  Note the spike in volume (pink graph) or _**Accumulation**_ of NVDA stocks between 2016 and 2018. This marks the beginning of institutional interest and accumulation of NVDA stocks  
 
 ![image](https://github.com/user-attachments/assets/739f8577-8620-44b8-a29c-d6a2a2f9a4b9)
-
-fig 4: Normalized Stock Volume Visualization: Normalizing the volume changes the distribution and display of the dataset. 
+fig 4: Normalized Stock Volume Visualization: Normalizing the volume changes the distribution and display of the dataset. The spike in volume (red graph) is probably due to hte discovery of NVDA by the _**retail traders**_ and other slow investors  
 
 ##
 ### **Portfolio Daily Returns:**
