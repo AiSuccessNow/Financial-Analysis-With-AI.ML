@@ -41,8 +41,7 @@ The project was divided into three parts, starting with the known and familiar b
 fig 1; Overview of Stocks Prices and Comparism
 
 ![image](https://github.com/user-attachments/assets/e3a72b15-6143-4f9a-a13d-676c4413381e)
-
-Fig 2: Visualization of Normalized Stock Prices
+Fig 2: Visualization of Normalized Stock Prices: The Normalization reveals the signficant outperformance of NVDA over other stocks
 ##
 ### **Volume Visualization:**
 ![image](https://github.com/user-attachments/assets/78dbf2c8-58e2-4c97-84c3-48cff83754dd)
