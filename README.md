@@ -28,9 +28,9 @@ The first part of this project was focused on the basics of technical analysis f
 * fig 4: Normalized Stock Volume Visualization
 * fig 5: Finding Market Trend with Moving Averages
 * fig 6: Stocks Daily Returns Ranges
-* fig 7: Heatmap Visualization of returns
-* fig 8: Market Trend With Moving Average Crossover
-* Fig 9: Visualization of Cummulative Daily Returns
+* fig 7: Visualizing ation of Cummulative Daily Returns
+* fig 8: Heatmap Visualization of returns
+  
 ##
 
 ### **Part B: Ai Machine Learning** 
@@ -78,10 +78,11 @@ fig 6: Stocks Daily Returns Ranges:
 * **Observations:** Highly volatile stocks have a much wider price ranges than less volatile stocks. eg NVDA has a price range from -20 to +20 plus, giving it a possible price range of above $40 low to highest. majority of the stocks have about $-5 to $5 daily price fluctuations from high to low. This probably explains why its so very difficult for _**Day Traders**_ to make consistent profits in the long run.
 
 ![image](https://github.com/user-attachments/assets/e9fda4a0-a50d-4724-ad15-ab7ab82a1619)
-Fig 6: Plot of Cummulative Daily Returns 
+Fig 7: Plotting The Cummulative Daily Returns 
 
+###
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
-fig 7: Heatmap Plot of Returns
+fig 8: Heatmap Plot of Returns
 * **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
 ##
 
