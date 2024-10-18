@@ -38,31 +38,32 @@ The project was divided into three parts, starting with the known and familiar b
 ### **Stock Prices Visualization:**
 
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
-fig 1; Overview of Stocks Prices and Comparism: This chart reveals the incomprehensible and interwoven price actions of the financial market.
+fig 1; Overview of Stocks Prices and Comparism:
+* **Observations:** This chart reveals the incomprehensible, interwoven and noisy price actions of the financial market.
 
 ![image](https://github.com/user-attachments/assets/e3a72b15-6143-4f9a-a13d-676c4413381e)
-Fig 2: Visualization of Normalized Stock Prices: Data Normalization cancels market noise and reveals the signficant outperformance of NVDA over other stocks
+Fig 2: Visualization of Normalized Stock Prices: 
+* **Data Normalization:** Data Normalization cancels out market noise and reveals the signficant outperformance of NVDA over other stocks, in this portfolio.
 ##
 
 ### **Volume Visualization:**
 ![image](https://github.com/user-attachments/assets/78dbf2c8-58e2-4c97-84c3-48cff83754dd)
 
 Fig 3: Stocks Volume Visualization: 
-* **Oberservation:**  Note the spike in volume (pink graph) or _**Accumulation**_ of NVDA stocks between 2016 and 2018. This marks the beginning of institutional interest and accumulation of NVDA stocks  
+* **Oberservations:**  Note the spike in volume (pink graph) or _**Accumulation**_ of NVDA stocks between 2016 and 2018. This marks the beginning of institutional interest and accumulation of NVDA stocks  
 
 ![image](https://github.com/user-attachments/assets/739f8577-8620-44b8-a29c-d6a2a2f9a4b9)
-fig 4: Normalized Stock Volume Visualization: Normalizing the volume changes the distribution and display of the dataset. The spike in volume (red graph) is probably due to hte discovery of NVDA by the _**retail traders**_ and other slow investors  
+fig 4: Normalized Stock Volume Visualization: 
+* **Observations:** Normalizing the volume change the distribution and display of the dataset. The spike in volume (red graph) is probably due to the discovery of NVDA by the _**retail traders**_ and other slower investors like the banks etc.  
 
 ##
 ### **Portfolio Daily Returns:**
 ![image](https://github.com/user-attachments/assets/97c8e6f7-d8db-4d5f-92cf-b56040f06d90)
 
 fig 5: Stocks Daily Returns Ranges:
-* **Observation from Returns Visualization:** Highly volatile stocks have a much wider price ranges than less volatile stocks eg NVDA.
-
+* **Observations:** Highly volatile stocks have a much wider price ranges than less volatile stocks. eg NVDA has a price range from -20 to +20 plus, giving it a possible price range of above $40 low to highest. majority of the stocks have about $-5 to $5 daily price fluctuations from high to low.
 
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
-
 fig 6: Heatmap Plot of Returns
 * **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
 ##
