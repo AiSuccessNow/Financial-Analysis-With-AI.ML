@@ -1,4 +1,4 @@
-# Financial-Market_Analysis-and-Predictions-With-AI.ML
+# Financial-Market-Analysis-&-Predictions-With-AI-Machine-Learning
 
 ## **Project Overview:**
 
@@ -8,33 +8,40 @@ The raw datasets were obtained through yahoo finance (yfinance), and preprocesse
 * Stock Price Data: https://docs.google.com/spreadsheets/d/14FvqWm5S55jcb-NqOcXtgQwIFqwQ9kT_4d5kcrL0mDo/edit?usp=sharing
 * Stock Volume Data: https://docs.google.com/spreadsheets/d/17xYBfnE8A3zlUifj8s3CjwqYbw1szJaWNmlniytuRww/edit?usp=sharing
 ###
-The stock market was selected for this project because of my personal interest and experience in trading the market with technical analysis. Applying Ai and Machine Learning to stock trading is futuristic and seems like the next BIG thing to stock trading and investment, and I want to be a part of this revolution. 
+Stock market was selected for this project because of my personal interest, experience and desire to cotinue to learn to trade and invest. Haven been trading the financial amrket with technical analysis for many years, learning to build and deploy Ai and Machine Learning to trading and investing is logical, futuristic and seems like the next BIG thing in the financila market, and I want to be a part of this revolution. Also, the complex, dynamic and often random nature of price actions of financial products make them a perfect fit for Ai and Machine Learning, especially deep neural networks like LSTM.
 
-Also, the complex and dynamic nature of price actions of financial products make them a perfect fit for Ai and Machine Learning.
-
-The project was divided into three parts, starting with the known and familiar basic technical analysis and charting, through a gradual progression to the Prophet Model and finally to the deep world of Ai and Machine Learning.
-
+The project was divided into two major parts: 
+* Part A: Technical analysis and charting
+* Part B: Ai and Machine Learning
+    * Section 1: The Prophet Predictive Model
+    * Section 2: Long Short Term Memory (LSTM) Neural Networks
 
 ## **Project Description:**
 
-**Part One:** The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. Part one is designed to lay the foundation for a comprehensive overview of the market and provide a insights into  random behavior of unstructred finanacial market. The figures below were chosen to highlight how investros and traders have trying to tame the financial market monster, with the hope of earning decent returns on their efforts and capital invested. 
+### **Part A: Technical Analysis and Charting**
+The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. Part one is designed to lay the foundation for a comprehensive overview of the market and provide a insights into  random behavior of unstructred finanacial market. The figures below were chosen to highlight how investros and traders have trying to tame the financial market monster, with the hope of earning decent returns on their efforts and capital invested. 
 
 **See the following figures:** Please Note that figure descriptions are displayed _**below the images**_ 
 * fig 1; Overview of Stocks Prices and Comparism 
 * fig 2: Visualization of Normalized Stock Prices
 * fig 3: Stocks Volume Visualization
 * fig 4: Normalized Stock Volume Visualization
-* fig 5: Stocks Daily Returns Ranges
-* fig 6: Heatmap Visualization of returns
-* fig 7: Market Trend With Moving Average Crossover
-* Fig 8: Visualization of Cummulative Daily Returns
+* fig 5: Finding Market Trend with Moving Averages
+* fig 6: Stocks Daily Returns Ranges
+* fig 7: Heatmap Visualization of returns
+* fig 8: Market Trend With Moving Average Crossover
+* Fig 9: Visualization of Cummulative Daily Returns
 ##
 
-**Part Two:** The second part of the project was focused on the use of the **Prophet Model** to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
+### **Part B: Ai Machine Learning** 
+**Section 1: Prophet Model** The first section of the Ai Amchine learning was focused on the use of the Prophet Model to predict future prices and market trends.
+The choice of Prophet Model was due to its ability to analyze and make predictions from datasets that exhibit seasonality trends and patterns; and the simplicity and interpretability (easy to understand) of the model output and predictions. Prophet was developed by Facebook.
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313)
 ##
 
-**Part Three** was devoted to applying the **Long Short Term Memory (LSTM) Neural network**, a deep learning models complete with Keras and Tensorflow to predict the future prices and direction of stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier sequences into formulating its predictions.
+**Section 2: LSTM Networks** This section is devoted to applying the Long Short Term Memory (LSTM) Neural network, a deep learning models complete with Keras and Tensorflow to predict the future prices and direction of stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier sequences into formulating its predictions.
+
+##
 
 ### **Stock Prices Visualization:**
 
@@ -58,16 +65,16 @@ fig 4: Normalized Stock Volume Visualization:
 * **Observations:** Normalizing the volume change the display of the dataset. The spike in volume (red graph) is probably due to the discovery of NVDA by the _**retail traders**_ and other slower investors like the banks etc.  
 ##
 
-### **Visualization of Market Trend With Moving Averages Crossovers:**
+### **Visualization of Market Trend With Moving Averages**
 ![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
-fig 8: Moving Average Crossover: 
+fig 5: Finding Market Trend with Moving Average Crossover: 
 * **Observation:** This graph shows the _**Bullish Market Trend**_ whereby Close > SMA50 > SMA200 as shown in the plot.
 
 ##
 ### **Portfolio Daily Returns:**
 ![image](https://github.com/user-attachments/assets/97c8e6f7-d8db-4d5f-92cf-b56040f06d90)
 
-fig 5: Stocks Daily Returns Ranges:
+fig 6: Stocks Daily Returns Ranges:
 * **Observations:** Highly volatile stocks have a much wider price ranges than less volatile stocks. eg NVDA has a price range from -20 to +20 plus, giving it a possible price range of above $40 low to highest. majority of the stocks have about $-5 to $5 daily price fluctuations from high to low. This probably explains why its so very difficult for _**Day Traders**_ to make consistent profits in the long run.
 
 ![image](https://github.com/user-attachments/assets/e9fda4a0-a50d-4724-ad15-ab7ab82a1619)
