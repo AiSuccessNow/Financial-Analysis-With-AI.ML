@@ -38,11 +38,12 @@ The project was divided into three parts, starting with the known and familiar b
 ### **Stock Prices Visualization:**
 
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
-fig 1; Overview of Stocks Prices and Comparism: This chart reveals the incomprehensible and webbed movement of the price action of portfolio.
+fig 1; Overview of Stocks Prices and Comparism: This chart reveals the incomprehensible and interwoven price actions of the financial market.
 
 ![image](https://github.com/user-attachments/assets/e3a72b15-6143-4f9a-a13d-676c4413381e)
-Fig 2: Visualization of Normalized Stock Prices: The Normalization reveals the signficant outperformance of NVDA over other stocks
+Fig 2: Visualization of Normalized Stock Prices: Data Normalization cancels market noise and reveals the signficant outperformance of NVDA over other stocks
 ##
+
 ### **Volume Visualization:**
 ![image](https://github.com/user-attachments/assets/78dbf2c8-58e2-4c97-84c3-48cff83754dd)
 
@@ -54,7 +55,6 @@ fig 4: Normalized Stock Volume Visualization: Normalizing the volume changes the
 
 ##
 ### **Portfolio Daily Returns:**
-
 ![image](https://github.com/user-attachments/assets/97c8e6f7-d8db-4d5f-92cf-b56040f06d90)
 
 fig 5: Stocks Daily Returns Ranges:
