@@ -64,6 +64,9 @@ fig 4: Normalized Stock Volume Visualization:
 fig 5: Stocks Daily Returns Ranges:
 * **Observations:** Highly volatile stocks have a much wider price ranges than less volatile stocks. eg NVDA has a price range from -20 to +20 plus, giving it a possible price range of above $40 low to highest. majority of the stocks have about $-5 to $5 daily price fluctuations from high to low. This probably explains why its so very difficult for _**Day Traders**_ to make consistent profits in the long run.
 
+![image](https://github.com/user-attachments/assets/e9fda4a0-a50d-4724-ad15-ab7ab82a1619)
+Fig 9: Plot of Cummulative Daily Returns 
+
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
 fig 6: Heatmap Plot of Returns
 * **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
@@ -74,11 +77,7 @@ fig 6: Heatmap Plot of Returns
 fig 7: Moving Average Crossover: 
 * **Observation:** This graph shows the _**Bullish Market Trend**_ whereby Close > SMA50 > SMA200 as shown in the plot.
 
-![image](https://github.com/user-attachments/assets/f8001bd4-031e-46ee-bc3a-f94778e1f233)
-fig 8: A closer look at Moving Average CrossOver Based on Last 500 Periods
 
-![image](https://github.com/user-attachments/assets/e9fda4a0-a50d-4724-ad15-ab7ab82a1619)
-Fig 9: Plot of Cummulative Daily Returns 
 ##
 
 # **AI AND MACHINE LEARNING IN FINANCIAL MARKET** 
