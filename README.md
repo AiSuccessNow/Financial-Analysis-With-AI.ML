@@ -36,8 +36,7 @@ The project was divided into three parts, starting with the known and familiar b
 ### **Stock Prices Visualization:**
 
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
-
-fig 1; Overview of Stocks Prices Comparism
+fig 1; Overview of Stocks Prices and Comparism
 
 ![image](https://github.com/user-attachments/assets/e3a72b15-6143-4f9a-a13d-676c4413381e)
 
@@ -52,20 +51,20 @@ Fig 3: Stocks Volume Visualization
 
 ![image](https://github.com/user-attachments/assets/739f8577-8620-44b8-a29c-d6a2a2f9a4b9)
 
-fig 4: Normalized Stock Volume Visualization
+fig 4: Normalized Stock Volume Visualization: Normalizing the volume changes the distribution and display of the dataset. 
 
-### **Portfolio Daily Returns Visualization:**
+### **Portfolio Daily Returns:**
 
 ![image](https://github.com/user-attachments/assets/97c8e6f7-d8db-4d5f-92cf-b56040f06d90)
 
 fig 5: Stocks Daily Returns Ranges
-* **Observation:** Highly volatile stocks have a much wider price ranges than less volatile stocks eg NVDA.
-##
+* **Observation from Returns Visulaization:** Highly volatile stocks have a much wider price ranges than less volatile stocks eg NVDA.
+
 
 ![image](https://github.com/user-attachments/assets/82c8acb5-6ea4-4d9a-ace7-8cb1f0ca9b38)
 
 fig 6: Heatmap Plot of Returns
-* **Observation:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
+* **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
 ##
 ![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
 
@@ -80,10 +79,12 @@ fig 10: Closer look at Moving Average CrossOver Based on Last 500 Periods
 ![image](https://github.com/user-attachments/assets/6dc4fb9c-d58a-4924-9340-b56559c0e6f2)
 
 Fig 11: Nvidia(NVDA) Cummulative Monthly Returns Visualization 
+##
+
+**Financial Market Price Predictions With Prophet Model:**
 
 ![image](https://github.com/user-attachments/assets/b49b8a5c-f1c2-421a-b5ce-5ac29e3550f9)
 
-**Financial Market Price Predictions With Prophet Model:**
 
 Fig 12: Visualization of Price Predictions of NVDA Based on PROPHET Model
 
