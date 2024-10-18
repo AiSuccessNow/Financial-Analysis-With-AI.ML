@@ -38,7 +38,7 @@ The project was divided into three parts, starting with the known and familiar b
 ### **Stock Prices Visualization:**
 
 ![image](https://github.com/user-attachments/assets/2a42ed28-96d5-42a2-bb91-2c48f9b54afd)
-fig 1; Overview of Stocks Prices and Comparism:
+fig 1: Overview of Stocks Prices and Comparism:
 * **Observations:** This chart reveals the incomprehensible, interwoven and noisy price actions of the financial market.
 
 ![image](https://github.com/user-attachments/assets/e3a72b15-6143-4f9a-a13d-676c4413381e)
@@ -50,11 +50,11 @@ Fig 2: Visualization of Normalized Stock Prices:
 ![image](https://github.com/user-attachments/assets/78dbf2c8-58e2-4c97-84c3-48cff83754dd)
 
 Fig 3: Stocks Volume Visualization: 
-* **Oberservations:**  Note the spike in volume (pink graph) or _**Accumulation**_ of NVDA stocks between 2016 and 2018. This marks the beginning of institutional interest and accumulation of NVDA stocks  
+* **Oberservations:**  Note the spike in volume (pink graph) or _**Accumulation**_ of NVDA stocks that started in 2017. This probably marks the beginning of institutional interest and accumulation of NVDA stocks  
 
 ![image](https://github.com/user-attachments/assets/739f8577-8620-44b8-a29c-d6a2a2f9a4b9)
 fig 4: Normalized Stock Volume Visualization: 
-* **Observations:** Normalizing the volume change the distribution and display of the dataset. The spike in volume (red graph) is probably due to the discovery of NVDA by the _**retail traders**_ and other slower investors like the banks etc.  
+* **Observations:** Normalizing the volume change the display of the dataset. The spike in volume (red graph) is probably due to the discovery of NVDA by the _**retail traders**_ and other slower investors like the banks etc.  
 
 ##
 ### **Portfolio Daily Returns:**
@@ -68,7 +68,7 @@ fig 6: Heatmap Plot of Returns
 * **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
 ##
 
-### ** Visualization of Moving Averages of Stock Closing Prices and Returns:**
+### **Visualization of Moving Averages of Stock Closing Prices and Returns:**
 ![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
 fig 9: Moving Average Crossover: 
 * **Observation:** This graph shows the _**Bullish Market Trend**_ whereby Close > SMA50 > SMA200 as shown in the plot.
