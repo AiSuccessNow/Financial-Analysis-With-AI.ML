@@ -1,10 +1,12 @@
-# Financial-Analysis-and-Predictions-With-AI.ML
+# Financial-Market_Analysis-and-Predictions-With-AI.ML
 
 ## **Project Overview:**
 
 The goal of the project is to demonstrate the predictive powers of Ai and Machine Learning and its use case in financial market analysis and price predictions. Daily adjusted closing prices and volume of stocks in the portfolio were used for the analysis, and to train the models.
 
-The datasets were obtained through yahoo finance (yfinance), and preprocessed and cleaned before been saved as a .csv which was later imported for the modeling.
+The raw datasets were obtained through yahoo finance (yfinance), and preprocessed and cleaned before been saved as .csv file which was then later imported for the modeling.
+Stock Price Dateset: https://docs.google.com/spreadsheets/d/14FvqWm5S55jcb-NqOcXtgQwIFqwQ9kT_4d5kcrL0mDo/edit?usp=sharing
+Stock Volume Dataset: https://docs.google.com/spreadsheets/d/17xYBfnE8A3zlUifj8s3CjwqYbw1szJaWNmlniytuRww/edit?usp=sharing
 
 The stock market was selected for this project because of my personal interest and experience in trading the market with technical analysis. Applying Ai and Machine Learning to stock trading is futuristic and seems like the next BIG thing to stock trading and investment, and I want to be a part of this revolution. 
 
@@ -18,7 +20,7 @@ The project was divided into three parts, starting with the known and familiar b
 **Part One:** The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. Part one is designed to lay the foundation for a comprehensive overview of the market and provide a insights into  random behavior of unstructred finanacial market. The figures below were chosen to highlight how investros and traders have trying to tame the financial market monster, with the hope of earning decent returns on their efforts and capital invested. 
 
 **See the following figures:** Please Note that figure descriptions are displayed _**below the images**_ 
-* fig 1; Overview of Stocks Prices Comparism 
+* fig 1; Overview of Stocks Prices and Comparism 
 * fig 2: Visualization of Normalized Stock Prices
 * fig 3: Stocks Volume Visualization
 * fig 4: Normalized Stock Volume Visualization
@@ -32,8 +34,7 @@ The project was divided into three parts, starting with the known and familiar b
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313)
 ##
 
-
-**Part Three** was devoted to studying the Long Short Term Memory (LSTM) Neural network, deep learning models complete with Keras and Tensorflow to predict the future prices and direction of the specific stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier time steps in the sequence into formulating its predictions.
+**Part Three** was devoted to applying the **Long Short Term Memory (LSTM) Neural network**, a deep learning models complete with Keras and Tensorflow to predict the future prices and direction of stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier sequences into formulating its predictions.
 
 ### **Stock Prices Visualization:**
 
