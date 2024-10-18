@@ -5,8 +5,8 @@
 The goal of the project is to demonstrate the predictive powers of Ai and Machine Learning and its use case in financial market analysis and price predictions. Daily adjusted closing prices and volume of stocks in the portfolio were used for the analysis, and to train the models.
 
 The raw datasets were obtained through yahoo finance (yfinance), and preprocessed and cleaned before been saved as .csv file which was then later imported for the modeling.
-Stock Price Dateset: https://docs.google.com/spreadsheets/d/14FvqWm5S55jcb-NqOcXtgQwIFqwQ9kT_4d5kcrL0mDo/edit?usp=sharing
-Stock Volume Dataset: https://docs.google.com/spreadsheets/d/17xYBfnE8A3zlUifj8s3CjwqYbw1szJaWNmlniytuRww/edit?usp=sharing
+ * Stock Price Dateset: https://docs.google.com/spreadsheets/d/14FvqWm5S55jcb-NqOcXtgQwIFqwQ9kT_4d5kcrL0mDo/edit?usp=sharing
+ * Stock Volume Dataset: https://docs.google.com/spreadsheets/d/17xYBfnE8A3zlUifj8s3CjwqYbw1szJaWNmlniytuRww/edit?usp=sharing
 
 The stock market was selected for this project because of my personal interest and experience in trading the market with technical analysis. Applying Ai and Machine Learning to stock trading is futuristic and seems like the next BIG thing to stock trading and investment, and I want to be a part of this revolution. 
 
