@@ -43,7 +43,7 @@ fig 1; Overview of Stocks Prices and Comparism:
 
 ![image](https://github.com/user-attachments/assets/e3a72b15-6143-4f9a-a13d-676c4413381e)
 Fig 2: Visualization of Normalized Stock Prices: 
-* **Data Normalization:** Data Normalization cancels out market noise and reveals the signficant outperformance of NVDA over other stocks, in this portfolio.
+* **Observation:** Stock price normalization _**cancels out market noise**_ and reveals the signficant outperformance of NVDA over other stocks, in this portfolio.
 ##
 
 ### **Volume Visualization:**
@@ -68,26 +68,21 @@ fig 6: Heatmap Plot of Returns
 * **Observation from HeatMap:** SPY and QQQ, the ETFs of S&P500 and Nasdaq respectively are very nicely correlated with each other and the large technology stocks like MIcrosoft (MSFT) and Apple stocks (AAPL). This is no surprise becasue the large technolgy stocks are parts of the ETFs.
 ##
 
+### ** Visualization of Moving Averages of Stock Closing Prices and Returns:**
 ![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
-
-### ** Moving Averages Visualization of Stock Closing Prices and Returns:**
-
-fig 9: Moving Average Crossover
+fig 9: Moving Average Crossover: 
+* **Observation:** This graph shows the _**Bullish Market Trend**_ whereby Close > SMA50 > SMA200 as shown in the plot.
 
 ![image](https://github.com/user-attachments/assets/f8001bd4-031e-46ee-bc3a-f94778e1f233)
-
 fig 10: Closer look at Moving Average CrossOver Based on Last 500 Periods
 
-![image](https://github.com/user-attachments/assets/6dc4fb9c-d58a-4924-9340-b56559c0e6f2)
-
-Fig 11: Nvidia(NVDA) Cummulative Monthly Returns Visualization 
 ##
-
 **Financial Market Price Predictions With Prophet Model:**
+![image](https://github.com/user-attachments/assets/6dc4fb9c-d58a-4924-9340-b56559c0e6f2)
+Fig 11: Plot of Nvidia (NVDA) Cummulative Monthly Returns 
+
 
 ![image](https://github.com/user-attachments/assets/b49b8a5c-f1c2-421a-b5ce-5ac29e3550f9)
-
-
 Fig 12: Visualization of Price Predictions of NVDA Based on PROPHET Model
 
 ![image](https://github.com/user-attachments/assets/0ec53bb5-4ac5-4809-be51-30849227151f)
