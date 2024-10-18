@@ -21,7 +21,7 @@ The project was divided into two major parts:
 ### **Part A: Technical Analysis and Charting**
 The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. Part one is designed to lay the foundation for a comprehensive overview of the market and provide a insights into  random behavior of unstructred finanacial market. The figures below were chosen to highlight how investros and traders have trying to tame the financial market monster, with the hope of earning decent returns on their efforts and capital invested. 
 
-**See the following figures:** Note that figure descriptions are displayed _**below the figures**_ 
+**See the figures below:** Note that figure descriptions are displayed _**below the figures**_ 
 * fig 1; Overview of Stocks Prices and Comparism 
 * fig 2: Visualization of Normalized Stock Prices
 * fig 3: Stocks Volume Visualization
@@ -32,9 +32,9 @@ The first part of this project was focused on the basics of technical analysis f
 * fig 8: Heatmap Visualization of returns
 ##
 
-### **Part B: Ai and Machine Learning**
+### **Part B: Ai and Machine Learning in Financial Market**
 ###
-#### **Part B1: Modelling and predicting Financial Market with Prophet:**
+#### * **1: Modelling and Predicting Financial Market Prices with Prophet:**
 The first section of the Ai Amchine learning was focused on the use of the Prophet Model to predict future prices and market trends.
 The choice of Prophet Model was due to its ability to analyze and make predictions from datasets that exhibit seasonality trends and patterns; and the simplicity and interpretability (easy to understand) of the model output and predictions. Prophet was developed by Facebook and the predictions are based on single stock at a time.
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313). See the figures below
@@ -43,7 +43,7 @@ The choice of Prophet Model was due to its ability to analyze and make predictio
 * Fig 11: Forecast Components plots With Prophet Model
 ###
 
-#### ** Part B2: Predicting stock prices with LSTM Networks:**
+#### * **2: Predicting stock prices with LSTM Networks:**
 This section is devoted to applying the Long Short Term Memory (LSTM) Neural network, a deep learning models complete with Keras and Tensorflow to predict the future prices and direction of stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier sequences into formulating its predictions. See the figures below:
 * fig 15: Model Summary for LSTM
 * Fig 16: Model Summary of History in DataFrame
