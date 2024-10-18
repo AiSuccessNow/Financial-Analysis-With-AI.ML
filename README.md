@@ -15,7 +15,7 @@ The project was divided into three parts, starting with the known and familiar b
 
 ## **Project Description:**
 
-**Part one** was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated and analyzed and visualized the stock prices, stock volumes, returns and risks. 
+**Part one:** The first part of this project was focused on the basics of technical analysis for exploration and analysis of a portfolio of stocks. In this part, I evaluated, analyzed and visualized the stock prices, stock volumes, returns and risks associated with the portfolio. 
 
 **See the following figures:** 
 * fig 1; Overview of Stocks Prices Comparism 
@@ -26,8 +26,10 @@ The project was divided into three parts, starting with the known and familiar b
 * fig 6: Heatmap Visualization of returns 
 ##
 
-**Part two** was focused on the use of the Prophet Model to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
+**Part two:** The second part of the project was focused on the use of the Prophet Model to predict future prices and trends for the market. The choice of Prophet Model was due to its useful for analyzing and making predictions from datasets that exhibit seasonality trends and patterns; and the interpretability of the model output and predictions. Prophet  was developed by Facebook.
 (Expert Learning Assistant: https://bootcampspot.instructure.com/courses/6442/external_tools/313)
+
+
 
 ##
 **Part three** was devoted to studying the Long Short Term Memory (LSTM) Neural network, deep learning models complete with Keras and Tensorflow to predict the future prices and direction of the specific stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier time steps in the sequence into formulating its predictions.
@@ -68,9 +70,9 @@ fig 6: Heatmap Plot of Returns
 ##
 ![image](https://github.com/user-attachments/assets/8fe76c2b-9a95-40b6-9d27-31d90bb48763)
 
-### ** Moving Averages Visualization:**
+### ** Moving Averages Visualization of Stock Closing Prices and Returns:**
 
-fig 9: Moving Average Crossover Visualization
+fig 9: Moving Average Crossover
 
 ![image](https://github.com/user-attachments/assets/f8001bd4-031e-46ee-bc3a-f94778e1f233)
 
