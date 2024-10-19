@@ -127,6 +127,6 @@ Fig 18: Predictions vs Closing prices vs Their Percentage Differences (Normalize
 * Prophet Model is good for time series predictions and it has been exceptionally effective in predicitng Nvidia prices. Haven said that, Prophet can be unreliable and its been deprecated by Meta (Facebook) which means it may not supported in the future.
 * LSTM Networks has a brighter future with better stock prices predictions accuaracy, compared to Prophet Model. However, it requires a large volume of data over a very long period to train in improve future predictions.
 * Its is still unknown how well the models will perform in forward testing with realtime data.
-* Granted that this project was limited by many factors, especially data and time, its save to say that more work is needed to vet the models for long term profitable performnace in the financial market place.
+* Granted that this project was limited by many factors, especially data and time, its save to say that more work is needed to vet the models for long term profitable performance in the financial market place.
 
 ## **References:**
