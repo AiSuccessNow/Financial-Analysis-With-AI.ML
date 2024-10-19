@@ -1,14 +1,22 @@
 # Financial-Market-Analysis-&-Predictions-With-AI-Machine-Learning
 
 ## **Project Overview:**
+The goal of this project is to integrate the old ways of trading and investing (technical and fundamental analysis) with the analytical and predictive powers of the new Ai and Machine Learning enabled algorithms. This was probably due to my personal insatiable curiosity and obsession with the financial market; and my desire to cotinue to learn, adapt, evolve and innovate with technology and finance. The complex, dynamic and often random nature of price actions of financial products make them a perfect fit for Ai and Machine Learning, especially deep neural networks like LSTM and reinforcement learning models among other.
 
-The goal of the project is to demonstrate the predictive powers of Ai and Machine Learning and its use case in financial market analysis and price predictions. Daily adjusted closing prices and volume of stocks in the portfolio were used for the analysis, and to train the models.
+Haven been trading  with technical analysis and a sprinkle of fundamental analysis for many years, learning to build and deploy Ai and Machine Learning models to trading and investing is logical, futuristic and will be a game changer for the me, my future clients and the industry at large. 
 
-The raw datasets were obtained through yahoo finance (yfinance), and preprocessed and cleaned before been saved as .csv file which was then later imported for the modeling.
-* Stock Price Data: https://docs.google.com/spreadsheets/d/14FvqWm5S55jcb-NqOcXtgQwIFqwQ9kT_4d5kcrL0mDo/edit?usp=sharing
-* Stock Volume Data: https://docs.google.com/spreadsheets/d/17xYBfnE8A3zlUifj8s3CjwqYbw1szJaWNmlniytuRww/edit?usp=sharing
+According to Scott Stern, VP Product Marketing & Strategy at OneStream software, a global leader in Ai financial forecasting, currently only about **20% of finance team** are able to adopt Ai in their everyday work. 
+*Reference: https://www.onestream.com/resources/video-sensible-ml/#resource*
+
+Ai and Machine Learning seems like the next BIG disruptive technolgy to hit the global economy and everything else, especially the financial market, and I want to be a part of this innovative revolution. 
+
+##  **Data Source**
+The raw data for the project were scrapped through yahoo finance (yfinance). The data was then preprocessed, cleaned and feature_engineered before been saved as .csv file.  This was later imported and read with pandas into dataframes for anaylysis and modeling. Below are the references for the data.
+* Stock Price: https://docs.google.com/spreadsheets/d/14FvqWm5S55jcb-NqOcXtgQwIFqwQ9kT_4d5kcrL0mDo/edit?usp=sharing
+* Volume Data: https://docs.google.com/spreadsheets/d/17xYBfnE8A3zlUifj8s3CjwqYbw1szJaWNmlniytuRww/edit?usp=sharing
+The daily adjusted closing prices and trading volumes for the stocks in the portfolio were used for the analysis, and to train the models.
 ###
-Stock market was selected for this project because of my personal interest, experience and desire to cotinue to learn to trade and invest. Haven been trading the financial amrket with technical analysis for many years, learning to build and deploy Ai and Machine Learning to trading and investing is logical, futuristic and seems like the next BIG thing in the financila market, and I want to be a part of this revolution. Also, the complex, dynamic and often random nature of price actions of financial products make them a perfect fit for Ai and Machine Learning, especially deep neural networks like LSTM.
+
 
 The project was divided into two major parts: 
 * **Part A:** Financial Market Evaluation With Technical Analysis
