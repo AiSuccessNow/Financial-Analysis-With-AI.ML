@@ -11,7 +11,7 @@ The raw datasets were obtained through yahoo finance (yfinance), and preprocesse
 Stock market was selected for this project because of my personal interest, experience and desire to cotinue to learn to trade and invest. Haven been trading the financial amrket with technical analysis for many years, learning to build and deploy Ai and Machine Learning to trading and investing is logical, futuristic and seems like the next BIG thing in the financila market, and I want to be a part of this revolution. Also, the complex, dynamic and often random nature of price actions of financial products make them a perfect fit for Ai and Machine Learning, especially deep neural networks like LSTM.
 
 The project was divided into two major parts: 
-* **Part A:** Technical Analysis and Charting of a Stock Portfolio
+* **Part A:** Financial Market Evaluation With Technical Analysis
 * **Part B:** Ai and Machine Learning for Financial Market
     * B1: Using Prophet Model to Predict Future Stock Prices 
     * B2: Financial Market application of Long Short Term Memory (LSTM) Neural Networks
@@ -120,8 +120,13 @@ Fig 18: Predictions vs Closing prices vs Their Percentage Differences (Normalize
 * **Fundamental Analysis:**  Ai and Machine learning with deep learning to unlock and automate bankable insights from fundamental data. 
 * **Sentiment Analysis:** Financial Market Sentiments Analysis with Natural Language Process and Neural Networks, given high quality realtime data. 
  
-## **Conclusions:**
-
-
+## **Conclusions and Inferences:**
+* The financial market is an incredibly irrational beast with incomprehensible, interwoven and noisy random walk of price actions.
+* Normalization streamlines both price and volume data and cancels out market noise, to reveal stocks with signficant outperformance potential e.g. NVDA.
+* A careful study of volumes can reveal intituttional investors interest and accumulation in stocks
+* Prophet Model is good for time series predictions and it has been exceptionally effective in predicitng Nvidia prices. Haven said that, Prophet can be unreliable and its been deprecated by Meta (Facebook) which means it may not supported in the future.
+* LSTM Networks has a brighter future with better stock prices predictions accuaracy, compared to Prophet Model. However, it requires a large volume of data over a very long period to train in improve future predictions.
+* Its is still unknown how well the models will perform in forward testing with realtime data.
+* Granted that this project was limited by many factors, especially data and time, its save to say that more work is needed to vet the models for long term profitable performnace in the financial market place.
 
 ## **References:**
