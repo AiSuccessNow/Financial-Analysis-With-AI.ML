@@ -3,9 +3,9 @@
 ## **Project Overview:**
 The goal of this project is to integrate the old ways of trading and investing (technical and fundamental analysis) with the analytical and predictive powers of the new Ai and Machine Learning enabled Algorithms. This was probably due to my personal insatiable curiosity and obsession with the financial market; and my desire to cotinue to learn, adapt, evolve and innovate with technology and finance. The complex, dynamic and often random nature of price actions of financial products make them a perfect fit for Ai and Machine Learning with their powerful ability to make predictions based on often invisible connections and relationships among different features in a dataset. Deep neural networks like LSTM and Reinforcement Learning Models, among others, are especially build for this type of complex analysis and predictions.
 
-Having been trading  with technical analysis and a sprinkle of fundamental analysis for many years, learning to build and deploy Ai and Machine Learning models for financial market analysis and to trading and investing is logical, futuristic and will be a game changer for the me, my future clients and the industry at large and now is the time to get on board.
+Having been trading  with technical analysis and a sprinkle of fundamental analysis for over ten(10) years now, building and deploying Ai and Machine Learning models for financial market analysis and to trading and investing, will be a game changer for the me, my future clients and the industry at large.  Now is the time to get on board.
 
-According to Scott Stern, VP Product Marketing & Strategy at OneStream software, a global leader in Ai financial forecasting, currently only about **20% of finance team** are able to adopt Ai in their everyday work. 
+According to Scott Stern, VP Product Marketing & Strategy at OneStream software, a global leader in Ai financial forecasting, currently only about **20% of finance team** are able to adopt Ai in their everyday work. And as we say in real estate investing, _**Time is of essence!**_
 *Reference: https://www.onestream.com/resources/video-sensible-ml/#resource*
 
 Ai and Machine Learning seems like the next BIG disruptive technolgy to hit the global economy and everything else, especially the financial market, and I want to be a part of this innovative revolution. 
