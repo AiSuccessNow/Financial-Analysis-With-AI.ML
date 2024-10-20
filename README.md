@@ -14,7 +14,7 @@ The intended audience was the head of HR of an investment group, who just advert
 ####
 This project was designed to showcase my readiness for this job.
 
-According to Scott Stern, VP Product Marketing & Strategy at OneStream software, a global leader in Ai financial forecasting, currently only about **20% of finance team** are able to adopt Ai and machine learning in their everyday work. And as we say in real estate investing, _**Time is of essence!**_
+According to Scott Stern, VP Product Marketing & Strategy at OneStream software, a global leader in Ai financial forecasting, currently "only about **20% of finance team** are able to adopt Ai and machine learning in their everyday work." And as we say in real estate investing, _**Time is of essence!**_
 *Reference: https://www.onestream.com/resources/video-sensible-ml/#resource*
 
 Ai and Machine Learning is the latest disruptive technology to hit the global economy and everyhting else. This innovative techbology presents a once in a lifetime opportunity to build the next Goldman Sachs, Blackrock or something better.
