@@ -1,14 +1,23 @@
 # Financial-Market-Analysis-&-Predictions-With-AI-Machine-Learning
 
 ## **Project Overview:**
-The goal of this project is to integrate the old ways of trading and investing (technical and fundamental analysis) with the analytical and predictive powers of the new Ai and Machine Learning enabled Algorithms. This was probably due to my personal insatiable curiosity and obsession with the financial market; and my desire to cotinue to learn, adapt, evolve and innovate with technology and finance. The complex, dynamic and often random nature of price actions of financial products make them a perfect fit for Ai and Machine Learning with their powerful ability to make predictions based on often invisible connections and relationships among different features in a dataset. Deep neural networks like LSTM and Reinforcement Learning Models, among others, are especially build for this type of complex analysis and predictions.
+The goal of this project was to build a model to integrate the old tools of trading and investing (technical, fundamental analysis etc.) with the powerful analytical and predictive prowess of the new and continuously improving Ai and Machine Learning enabled Algorithms. To achieve this, I applied my experience in trading and investing, combined with my education and knowledge of supervised, unsupervised and neural networks modeling techniques using Python programming language, 
 
-Having been trading  with technical analysis and a sprinkle of fundamental analysis for over ten(10) years now, building and deploying Ai and Machine Learning models for financial market analysis and to trading and investing, will be a game changer for the me, my future clients and the industry at large.  Now is the time to get on board.
+The intended audience was the head of HR of an investment group, who had advertised an opportunity for a Quantitative Analyst to join their Portfolio Management team. The analysts role will include but not limited to: 
+####
+* Develop and enhance our existing stock selection models
+* Research and develop new factors, strategies and stock selection models
+* Provide routine support to Portfolio Managers for managing multiple portfolios
+* Process large structured and/or unstructured datasets to extract predictive signals
+* Present research and portfolio analysis results to key internal stakeholders
+* Collaborate and effectively coordinate with cross-functional teams on a day-to-day basis
+####
+This project was designed to showcase my readiness for this job.
 
-According to Scott Stern, VP Product Marketing & Strategy at OneStream software, a global leader in Ai financial forecasting, currently only about **20% of finance team** are able to adopt Ai in their everyday work. And as we say in real estate investing, _**Time is of essence!**_
+According to Scott Stern, VP Product Marketing & Strategy at OneStream software, a global leader in Ai financial forecasting, currently only about **20% of finance team** are able to adopt Ai and machine learning in their everyday work. And as we say in real estate investing, _**Time is of essence!**_
 *Reference: https://www.onestream.com/resources/video-sensible-ml/#resource*
 
-Ai and Machine Learning seems like the next BIG disruptive technolgy to hit the global economy and everything else, especially the financial market, and I want to be a part of this innovative revolution. 
+Ai and Machine Learning is the latest disruptive technology to hit the global economy and everyhting else. This innovative techbology presents a once in a lifetime opportunity to build the next Goldman Sachs, Blackrock or something better.
 
 ##  **Data Source**
 The raw data for the project were scrapped through yahoo finance (yfinance). The data was then preprocessed, cleaned and feature_engineered before been saved as .csv file.  This was later imported and read with pandas into dataframes for anaylysis and modeling. Below are the references for the data.
