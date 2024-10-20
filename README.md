@@ -3,7 +3,7 @@
 ## **Project Overview:**
 The goal of this project was to build a model to integrate the old tools of trading and investing (technical, fundamental analysis etc.) with the powerful analytical and predictive prowess of the new and continuously improving Ai and Machine Learning enabled Algorithms. To achieve this, I applied my experience in trading and investing, combined with my education and knowledge of supervised, unsupervised and neural networks modeling techniques using Python programming language, 
 
-The intended audience was the head of HR of an investment group, who had advertised an opportunity for a Quantitative Analyst to join their Portfolio Management team. The analysts role will include but not limited to: 
+The intended audience was the head of HR of an investment group, who just advertised an opportunity for a Quantitative Analyst to join their Portfolio Management team. The analysts role will include but not limited to: 
 ####
 * Develop and enhance our existing stock selection models
 * Research and develop new factors, strategies and stock selection models
