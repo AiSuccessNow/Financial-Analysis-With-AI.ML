@@ -24,7 +24,7 @@ The raw data for the project were scrapped from yahoo finance (yfinance). The da
 * Stock Price: https://docs.google.com/spreadsheets/d/14FvqWm5S55jcb-NqOcXtgQwIFqwQ9kT_4d5kcrL0mDo/edit?usp=sharing
 * Volume Data: https://docs.google.com/spreadsheets/d/17xYBfnE8A3zlUifj8s3CjwqYbw1szJaWNmlniytuRww/edit?usp=sharing
 
-The daily adjusted closing prices and trading volumes for the stocks in the portfolio were used for the analysis, and to train the models.
+The daily adjusted closing prices and trading volumes data were used for the analysis, and to train and test the models.
 ###
 
 
@@ -93,18 +93,17 @@ Fig 9: Visualization of Price Predictions of NVDA Based on PROPHET Model
 
 ![image](https://github.com/user-attachments/assets/0ec53bb5-4ac5-4809-be51-30849227151f)
 
-Fig 10: Price Forecast for NVDA From Prophet Model  
+Fig 10: Price Forecast for Nvidia (NVDA) From Prophet Model  
 
 ![image](https://github.com/user-attachments/assets/36fd11d1-653c-48a0-9b01-a647f2e3c3d4)
 
-Fig 11: Forecast Components visualization With Prophet Model
+Fig 11: Forecast Components Visualization With Prophet Model
 ###
 
-### * **2: Predicting Stock Prices With LSTM Networks:**
+### **2: Financial Market Price Predictions With LSTM Neural Networks:**
 This section is devoted to applying the Long Short Term Memory (LSTM) Neural network, a deep learning models complete with Keras and Tensorflow to predict the future prices and direction of stocks. LSTM networks are a type of Recurrent Neural Network (RNN) that are equipped to overcome the limitations common to traditional RNNs, particularly the short-term memory issues due to vanishing gradient problems. LSTM was chosen for the analysis because of its ability to remember and incorporate earlier sequences into formulating its predictions. See the figures below:
 
 
-### **Financial Market Price Predictions With LSTM Neural Networks:**
 ###
 ![image](https://github.com/user-attachments/assets/61e3a609-74b0-4f3f-ac0c-ff22348fd6db)
 
