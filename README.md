@@ -23,6 +23,7 @@ Ai and Machine Learning is the latest disruptive technology to hit the global ec
 The raw data for the project were scrapped from yahoo finance (yfinance). The data was then preprocessed, cleaned and feature_engineered before been saved as .csv file.  This was later imported and read with pandas into dataframes for anaylysis and modeling. Below are the references for the data.
 * Stock Price: https://docs.google.com/spreadsheets/d/14FvqWm5S55jcb-NqOcXtgQwIFqwQ9kT_4d5kcrL0mDo/edit?usp=sharing
 * Volume Data: https://docs.google.com/spreadsheets/d/17xYBfnE8A3zlUifj8s3CjwqYbw1szJaWNmlniytuRww/edit?usp=sharing
+
 The daily adjusted closing prices and trading volumes for the stocks in the portfolio were used for the analysis, and to train the models.
 ###
 
