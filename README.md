@@ -17,7 +17,7 @@ This project was designed to showcase my readiness for this job.
 According to Scott Stern, VP Product Marketing & Strategy at OneStream software, a global leader in Ai financial forecasting, currently "only about **20% of finance team** are able to adopt Ai and machine learning in their everyday work." And as we say in real estate investing, _**Time is of essence!**_
 *Reference: https://www.onestream.com/resources/video-sensible-ml/#resource*
 
-Ai and Machine Learning is the latest disruptive technology to hit the global economy and everyhting else. This innovative technology presents a once in a lifetime opportunity to build the next Goldman Sachs, Blackrock or something better.
+Ai and Machine Learning is the latest disruptive technology to hit the global economy and everything else. This innovative technology presents a once in a lifetime opportunity to build the next Goldman Sachs, Blackrock or something better.
 
 ##  **Data Source**
 The raw data for the project were scrapped from yahoo finance (yfinance). The data was then preprocessed, cleaned and feature_engineered before been saved as .csv file.  This was later imported and read with pandas into dataframes for anaylysis and modeling. Below are the references for the data.
