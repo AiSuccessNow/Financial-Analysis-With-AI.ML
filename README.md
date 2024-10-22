@@ -1,4 +1,9 @@
-# Financial-Market-Analysis-&-Predictions-With-AI-Machine-Learning
+# **Financial Market Analysis With AI and Machine Learning**
+
+###  **Projects By:** Augustine Ojo Bsc., MBA., Fintech (Harvard), Ai/ML (RiceU (Oct. 2024))
+### **Project Goal:** To build a model to integrate the leading traditional trading and investing tools with the predictive prowess of Ai and Machine Learning enabled algorithms.
+### **Data Attribution:** Financial Data was sourced from Yahoo Finance (yfinance)
+## **................................**
 
 ## **Project Overview:**
 The goal of this project was to build a model to integrate the old tools of trading and investing (technical, fundamental analysis etc.) with the powerful analytical and predictive prowess of the new and continuously improving Ai and Machine Learning enabled Algorithms. To achieve this, I applied my experience in trading and investing, combined with my education and knowledge of supervised, unsupervised and neural networks modeling techniques using Python programming language, 
