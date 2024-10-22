@@ -25,7 +25,7 @@ According to Scott Stern, VP Product Marketing & Strategy at OneStream software,
 Ai and Machine Learning is the latest disruptive technology to hit the global economy and everything else. This innovative technology presents a once in a lifetime opportunity to build the next Goldman Sachs, Blackrock or something better.
 
 ##  **Data Source**
-The raw data for the project were scrapped from yahoo finance (yfinance). The data was then preprocessed, cleaned and feature_engineered before been saved as .csv file.  This was later imported and read with pandas into dataframes for anaylysis and modeling. Below are the references for the data.
+The raw data for the project were scrapped from yahoo finance (yfinance), scraped **from 1962 with 152,000 plus rows.** The data was then preprocessed, cleaned and feature_engineered before been saved as .csv file.  This was later imported and read with pandas into dataframes for anaylysis and modeling. Below are the references for the data.
 * Stock Price: https://docs.google.com/spreadsheets/d/14FvqWm5S55jcb-NqOcXtgQwIFqwQ9kT_4d5kcrL0mDo/edit?usp=sharing
 * Volume Data: https://docs.google.com/spreadsheets/d/17xYBfnE8A3zlUifj8s3CjwqYbw1szJaWNmlniytuRww/edit?usp=sharing
 
