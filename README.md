@@ -121,7 +121,10 @@ Fig 17a: Original Stock Prices vs LSTM Predicted Prices
 
 Fig 17b: Original Stock Prices vs LSTM Predicted Prices **Last 300 Periods**
 
-![image](https://github.com/user-attachments/assets/8907dec2-7e06-4a6a-86a4-c20bf60adb5c)
+![image](https://github.com/user-attachments/assets/48c455cb-a03f-4ca9-97d1-fe4d70d4c9eb)
+![image](https://github.com/user-attachments/assets/ffa311c3-16d1-441c-9a5e-f0ef9ddde86c)
+![image](https://github.com/user-attachments/assets/02ec0061-edd6-4966-a746-60bc9624b581)
+
 
 Fig 18: Predictions vs Closing prices vs Their Percentage Differences (Normalized)
 ##
