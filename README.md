@@ -2,7 +2,7 @@
 
 #### **Projects By:** Augustine Ojo Bsc., MBA., Fintech (Harvard), Ai/ML (RiceU (Oct. 2024))
 #### **Project Goal:** To build a model to integrate the leading traditional trading and investing tools with the predictive prowess of Ai and Machine Learning enabled algorithms.
-#### **Data Attribution:** Financial Data was sourced from Yahoo Finance (yfinance)
+#### **Data Attribution:** Financial Data was sourced from Yahoo Finance (yfinance). Thank you yfinance.
 **................................**
 
 ## **Project Overview:**
@@ -147,12 +147,12 @@ Fig 18: Predictions vs Closing prices vs Their Percentage Differences (Normalize
  
 ## **Conclusions and Inferences:**
 * The financial market is an incredibly irrational beast with incomprehensible, interwoven and noisy random walk of price actions.
-* Normalization streamlines both price and volume data and cancels out market noise, to reveal stocks with signficant outperformance potential e.g. NVDA.
-* A careful study of volumes can reveal intituttional investors interest and accumulation in stocks
-* Prophet Model is good for time series predictions and it has been exceptionally effective in predicitng Nvidia prices. Haven said that, Prophet can be unreliable and its been deprecated by Meta (Facebook) which means it may not supported in the future.
-* LSTM Networks has a brighter future with better stock prices predictions accuaracy, compared to Prophet Model. However, it requires a large volume of data over a very long period to train in improve future predictions.
+* Normalization streamlined both price and volume data and cancels out market noise, to reveal stocks with signficant outperformance potential e.g. NVDA.
+* A careful study of volumes can reveal institutional investors interest and accumulation in particular stocks
+* Prophet Model is good for time series predictions and it has been exceptionally effective in predicitng Nvidia prices in this project. Haven said that though, Prophet can be unreliable and its been deprecated by Meta (Facebook) which means it may not be supported in the future.
+* LSTM Networks has a brighter future with better stock prices predictions accuaracy, compared to Prophet Model. However, it requires a very large volume of data over a very long period to train to the model to improve future predictions.
 * Its is still unknown how well the models will perform in forward testing with realtime data.
-* Granted that this project was limited by many factors, especially data and time, its save to say that more work is needed to vet the models for long term profitable performance in the financial market place.
+* Granted that this project was limited by many factors, especially data and time, its save to say that more work is needed to further validate the models for long term profitable performance in the financial market place.
 
 ## **References:**
-Scott Stern andScot Leshinski, Product Expert Video Series, Sensible ML. https://www.onestream.com/resources/video-sensible-ml/#resource
+Scott Stern and Scot Leshinski, Product Expert Video Series, Sensible ML. https://www.onestream.com/resources/video-sensible-ml/#resource
